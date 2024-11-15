@@ -18,6 +18,9 @@ g++ -xc++ -E -v -
 g++ filename.cpp -o program (name you want)    
  .\program.exe
 
+ or 
+ g++ filename.cpp -o filename && ./filename
+
 ## c_cpp_properties.json should look similar to this so stuff connects
 
 1. Press F1 (or Ctrl+Shift+P) to open the command palette
