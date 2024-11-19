@@ -64,5 +64,7 @@ int main() {
 
     // MATH pow(), sqrt(), abs(), ceil(), floor(), round(), trunc(), std::max(), std::min()
 
+    // LOGICAL operators
+    // == != > < >= <=  && || !
     return 0;
 }
