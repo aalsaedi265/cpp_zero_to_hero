@@ -45,10 +45,10 @@ g++ filename.cpp -o program (name you want)
             "windowsSdkVersion": "10.0.19041.0",
             "cStandard": "c17",
             "cppStandard": "c++17",
-    ### i use gcc so i placed it over the defualt seeting
+#### i use gcc so i placed it over the defualt seeting
             "intelliSenseMode": "windows-gcc-x64",
             
-    ### be sure to use your own complier or intell sense will lose its mind
+#### be sure to use your own complier or intellisense will lose its mind
 
             "compilerPath": "C:/msys64/ucrt64/bin/g++.exe"
 
