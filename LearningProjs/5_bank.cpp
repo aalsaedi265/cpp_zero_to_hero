@@ -17,6 +17,9 @@ int main() {
         std::cout << "Enter 4 to quit" << '\n';
         std::cin >> choice;
 
+        std::cin.clear();   //clears the input buffer in cin
+        std::cin.ignore(); 
+
         switch (choice)
         {
         case 1:
