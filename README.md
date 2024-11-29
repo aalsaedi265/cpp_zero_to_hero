@@ -58,4 +58,4 @@ g++ filename.cpp -o program (name you want)
 
 ### windows-msvc-x64"is not looking  right complier errors since my using mysys64
 
-#### extension project manager by dark emerald to automate for like in java
+#### extension project manager by dark emerald to automate  like in java project maker
