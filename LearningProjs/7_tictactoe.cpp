@@ -120,7 +120,7 @@ public:
 
 int main()
 {
-    TicTacToe game;
-    game.play();
+    TicTacToe gitgud;
+    gitgud.play();
     return 0;
 }
